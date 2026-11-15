@@ -1,0 +1,119 @@
+[
+ {
+  "line": "L1",
+  "place": 0.0,
+  "prep_dur": 4.93,
+  "atempo": 1.248,
+  "final_dur": 3.96,
+  "ends": 3.96,
+  "deadline": 3.95
+ },
+ {
+  "line": "L2",
+  "place": 4.0,
+  "prep_dur": 3.97,
+  "atempo": 1.005,
+  "final_dur": 3.96,
+  "ends": 7.96,
+  "deadline": 7.95
+ },
+ {
+  "line": "L3",
+  "place": 8.0,
+  "prep_dur": 4.23,
+  "atempo": 1.226,
+  "final_dur": 3.46,
+  "ends": 11.46,
+  "deadline": 11.45
+ },
+ {
+  "line": "L4",
+  "place": 11.5,
+  "prep_dur": 3.06,
+  "atempo": 1.0,
+  "final_dur": 3.06,
+  "ends": 14.56,
+  "deadline": 14.95
+ },
+ {
+  "line": "L5",
+  "place": 15.0,
+  "prep_dur": 2.97,
+  "atempo": 1.0,
+  "final_dur": 2.97,
+  "ends": 17.97,
+  "deadline": 18.95
+ },
+ {
+  "line": "L6",
+  "place": 19.0,
+  "prep_dur": 3.43,
+  "atempo": 1.0,
+  "final_dur": 3.42,
+  "ends": 22.42,
+  "deadline": 23.45
+ },
+ {
+  "line": "L7",
+  "place": 23.5,
+  "prep_dur": 3.15,
+  "atempo": 1.0,
+  "final_dur": 3.15,
+  "ends": 26.65,
+  "deadline": 27.15
+ },
+ {
+  "line": "L8",
+  "place": 27.2,
+  "prep_dur": 4.17,
+  "atempo": 1.0,
+  "final_dur": 4.17,
+  "ends": 31.37,
+  "deadline": 31.45
+ },
+ {
+  "line": "L9",
+  "place": 31.5,
+  "prep_dur": 6.62,
+  "atempo": 1.113,
+  "final_dur": 5.96,
+  "ends": 37.46,
+  "deadline": 37.45
+ },
+ {
+  "line": "L10",
+  "place": 37.5,
+  "prep_dur": 3.95,
+  "atempo": 1.339,
+  "final_dur": 2.96,
+  "ends": 40.46,
+  "deadline": 40.45
+ },
+ {
+  "line": "L11",
+  "place": 40.5,
+  "prep_dur": 4.32,
+  "atempo": 1.328,
+  "final_dur": 3.25,
+  "ends": 43.75,
+  "deadline": 43.75
+ },
+ {
+  "line": "L12",
+  "place": 43.8,
+  "prep_dur": 3.74,
+  "atempo": 1.084,
+  "final_dur": 3.44,
+  "ends": 47.24,
+  "deadline": 47.25
+ },
+ {
+  "line": "L13",
+  "place": 47.35,
+  "prep_dur": 1.91,
+  "atempo": 1.192,
+  "final_dur": 1.6,
+  "ends": 48.95,
+  "deadline": 48.95
+ }
+]
