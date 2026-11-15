@@ -2,8 +2,8 @@
 
 Ek complete, battle-tested pipeline: Indian horror/mystery Hindi Shorts (1080×1920, 30fps)
 jo code se banti hain — research, script, character design, scene build, voiceover, mix, QC.
-Reference production: **Bhangarh reel** (demo video is repo me hai — `demo/Bhangarh_VO_Final.mp4`,
-uska saara code `code/` aur `vo/` folders me hai).
+Reference production: **Bhangarh reel** (demo video is repo me hai — `demo/demo_10s.mp4`,
+usi style ka saara code `code/` aur `vo/` folders me hai).
 
 ## STEP 0 — Research (script se pehle)
 - Asal jagah/kahani par **deep research**: Wikipedia + official sources (ASI board jaise primary saboot).
@@ -83,4 +83,4 @@ uska saara code `code/` aur `vo/` folders me hai).
 - `code/render_test.py` / `render_full.py` — stills + full render (resume-wala)
 - `vo/fit_lines.py` / `vo/mix.py` — VO fit + final mix
 - `docs/` — visual system digest + lessons
-- `demo/Bhangarh_VO_Final.mp4` — is pipeline se bani perfect reel
+- `demo/demo_10s.mp4` — is pipeline ki 10-second sample scene (asal reel yahan public nahi hai)

@@ -7,6 +7,6 @@ Script writing se lekar character design, scene build, voiceover aur final mix t
 - **code/** — reel ka poora scene/character code + render scripts + ASSEMBLY.md
 - **vo/** — voiceover fit + mix scripts (Gemini TTS Puck/Algenib, Whisper-verify method)
 - **docs/** — visual system digest + hard lessons
-- **demo/** — is pipeline se bani final reel: Bhangarh (49s, 1080x1920, -14 LUFS)
+- **demo/** — is pipeline ki 10s sample scene — gate par sandesh-wahak, camera push-in (asal Bhangarh reel public repo me nahi hai)
 
 Format: 1080x1920 · 30fps · Hindi narration · -14 LUFS
